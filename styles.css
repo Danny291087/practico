@@ -1,0 +1,17 @@
+.text{
+  text-align: center;
+  color: rgb(252, 247, 247);
+  
+}
+
+body{
+  background-image: url("./fondo/ingredientes-cocinar-pasta-sobre-fondo-madera_23-2147925943.webp");
+}
+
+
+.carousel-item{
+  height: 500px;
+  width: 1500px;
+
+
+}
